@@ -7,7 +7,7 @@ import classNames from 'classnames'
 
 // Could have been `import { Select } from 'react-responsive-ui'`
 // but in that case Webpack bundles the whole `react-responsive-ui` package.
-import Select from 'react-responsive-ui/commonjs/Select'
+import Select from 'react-responsive-ui/modules/Select'
 
 import country_names from './countries'
 import InternationalIcon from './InternationalIcon'

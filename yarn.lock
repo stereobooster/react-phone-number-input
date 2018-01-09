@@ -1885,9 +1885,9 @@ ini@~1.3.0:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
 
-"input-format@https://github.com/stereobooster/input-format.git#remove-react-dom":
+input-format-domless@^0.1.15:
   version "0.1.15"
-  resolved "https://github.com/stereobooster/input-format.git#22302d36359bba3b20166e4ed519f084b67e0782"
+  resolved "https://registry.yarnpkg.com/input-format-domless/-/input-format-domless-0.1.15.tgz#53a5f515760c3dd8b3160fb928378830658b3dc1"
   dependencies:
     babel-runtime "^6.6.1"
 

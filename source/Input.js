@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { as_you_type, parse, format, getPhoneCode, DIGITS } from 'libphonenumber-js'
-import { ReactInput } from 'input-format'
+import { ReactInput } from 'input-format-domless'
 import classNames from 'classnames'
 
 // Could have been `import { Select } from 'react-responsive-ui'`
